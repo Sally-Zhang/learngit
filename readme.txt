@@ -6,3 +6,4 @@ git tracks changes of files.
 2 change
 creating a new branch is quick
 control new branch
+make new changes
